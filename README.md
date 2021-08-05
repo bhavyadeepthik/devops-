@@ -1,2 +1,1 @@
-# Devops 
-Documentation and learning curve 
+trail: creating branches from github 
