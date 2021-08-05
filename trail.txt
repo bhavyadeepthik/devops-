@@ -1,0 +1,12 @@
+trying to create a new branch from the local repo 
+git branch local 
+
+we switched into the branch local 
+
+after creating branch we used touch to create afile from cli and vim to edit the file created. 
+
+later we add the file created in the branch local by using commands git add 
+git commit filename -m "msg"
+
+git push is used to push the branch<<<<<blocked with suggestion to add set upstram command along with push .... to add the locally created branch for the first time into remote repo 
+git push --set-upstream origin local 
