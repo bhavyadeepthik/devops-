@@ -1,2 +1,2 @@
-# devops-
-Documentation 
+# Devops 
+Documentation and learning curve 
